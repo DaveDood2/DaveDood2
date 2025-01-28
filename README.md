@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://lucys-game-nook.neocities.org/art/PinkTree.gif" width="100%" height="auto" />
+<!--   <img src="https://lucys-game-nook.neocities.org/art/PinkTree.gif" width="100%" height="auto" /> -->
 <!-- <iframe width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/Mbiz7o3mR-o?si=L9y5kAEm-0bDi-PS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mbiz7o3mR/0.jpg)](https://www.youtube.com/watch?v=Mbiz7o3mR)
 </div>
 
 <h1 align="center">Hi there, I'm Lucy! 👋</h1>
