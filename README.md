@@ -15,16 +15,13 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a Software Developer based in Missouri. I have a passion for game design and art and love to create innovative solutions.
+I am a Software Developer based in Missouri (soon to be moving to Illinois with my lovely partner!). I want to explore game development as an avenue for vent art, and in general I want to make art that is personal to me.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [What You're Learning]
-- 👯 I'm looking to collaborate on [Type of Projects]
-- 🤔 I'm looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Knowledgeable About]
-- 📫 How to reach me: [Your Email]
+- 🔭 I'm currently working on finding a job, personal game development projects ("Ouroboros Depths")
+- 🌱 I'm currently learning how to use Godot, Blender, and Krita.
+- 💬 Ask me about coding!
+- 📫 How to reach me: artistic109@gmail.com
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: [A Fun Fact About You]
 
 ### 🛠️ Languages and Tools:
 
@@ -37,14 +34,5 @@ I am a Software Developer based in Missouri. I have a passion for game design an
 
 ### 📈 GitHub Stats:
 
-[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[[LucyThePirate's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucyThePirate&show_icons=true&theme=radical)](https://github.com/LucyThePirate/github-readme-stats)
 
-
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Blog Post Title](Your Blog Post URL)
-- [Another Blog Post Title](Another Blog Post URL)
-<!-- BLOG-POST-LIST:END -->
-
----
